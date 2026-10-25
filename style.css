@@ -1,5 +1,12 @@
+@font-face {
+  font-family: 'Fixedsys';
+  src: url('FSEX302.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Fixedsys', monospace;
     text-align: center;
     margin-top: 50px;
     background: #f4f4f4;
