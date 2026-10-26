@@ -13,14 +13,14 @@
   /* desktop view */
   @media (min-width: 768px) {
     .wowhead-talent-frame {
-      height: 750px; 
+      height: 600px; 
     }
   }
 
   /* mobile view */
   @media (max-width: 767px) {
     .wowhead-talent-frame {
-      height: 450px; 
+      height: 250px; 
     }
   }
 
